@@ -39,10 +39,6 @@ Contributions are welcome! If you'd like to contribute to JS Flix, please follow
 - **Push to the Branch:** `git push origin feature/your-feature`
 - **Open a Pull Request:** Submit a pull request with a description of your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or inquiries, please contact [srivastavasaurabh978@gmail.com](mailto:srivastavasaurabh978@gmail.com).
